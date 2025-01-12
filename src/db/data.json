@@ -1,0 +1,118 @@
+[
+    {
+        "item": "Manteau chaud",
+        "conditions": {
+            "maxTemp": 5
+        }
+    },
+    {
+        "item": "Veste",
+        "conditions": {
+            "minTemp": 5,
+            "maxTemp": 15
+        }
+    },
+    {
+        "item": "T-shirt",
+        "conditions": {
+            "minTemp": 15
+        }
+    },
+    {
+        "item": "Bonnet",
+        "conditions": {
+            "maxTemp": 5
+        }
+    },
+    {
+        "item": "Gants",
+        "conditions": {
+            "maxTemp": 5
+        }
+    },
+    {
+        "item": "Parapluie",
+        "conditions": {
+            "precipitationChance": 10
+        }
+    },
+    {
+        "item": "Imperméable",
+        "conditions": {
+            "precipitationChance": 10
+        }
+    },
+    {
+        "item": "Crème solaire",
+        "conditions": {
+            "uvi": 3
+        }
+    },
+    {
+        "item": "Lunettes de soleil",
+        "conditions": {
+            "uvi": 3
+        }
+    },
+    {
+        "item": "Coupe-vent",
+        "conditions": {
+            "windSpeed": 5
+        }
+    },
+    {
+        "item": "Chaussures imperméables",
+        "conditions": {
+            "precipitationChance": 10
+        }
+    },
+    {
+        "item": "Vêtements thermiques",
+        "conditions": {
+            "maxTemp": 5,
+            "feels_like": 0
+        }
+    },
+    {
+        "item": "Écharpe",
+        "conditions": {
+            "maxTemp": 5
+        }
+    },
+    {
+        "item": "Vêtements de pluie",
+        "conditions": {
+            "precipitationChance": 10
+        }
+    },
+    {
+        "item": "Chaussettes chaudes",
+        "conditions": {
+            "maxTemp": 5
+        }
+    },
+    {
+        "item": "Crème hydratante",
+        "conditions": {
+            "humidity": 50
+        }
+    },
+    {
+        "item": "Chapeau de soleil",
+        "conditions": {
+            "uvi": 5
+        }
+    },
+    {
+        "item": "Lunettes de soleil",
+        "conditions": {
+            "uvi": 5
+        }
+    },
+    {
+        "item": "Sac à dos",
+        "conditions": {
+            "windSpeed": 5
+        }
+    }
+]
